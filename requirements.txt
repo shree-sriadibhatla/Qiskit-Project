@@ -1,0 +1,13 @@
+dill==0.4.0
+numpy==2.3.3
+psutil==7.0.0
+python-dateutil==2.9.0.post0
+qiskit==2.1.2
+qiskit-aer==0.17.1
+rustworkx==0.17.1
+scipy==1.16.2
+six==1.17.0
+stevedore==5.5.0
+typing_extensions==4.15.0
+matplotlib==3.8.0
+networkx==3.2.1

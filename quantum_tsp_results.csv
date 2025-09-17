@@ -1,0 +1,20 @@
+Metric,Value,Unit,Description
+Total Cities,3,count,Number of cities in the TSP problem
+Total Distance,1476.14,km,Optimal route distance
+Electric Vehicle CO2,73.81,kg CO2,Carbon emissions for electric vehicle
+Hybrid Vehicle CO2,118.09,kg CO2,Carbon emissions for hybrid vehicle
+Gasoline Vehicle CO2,177.14,kg CO2,Carbon emissions for gasoline vehicle
+Carbon Savings Electric vs Gasoline,103.33,kg CO2,Total carbon savings with electric vehicle
+Percentage Reduction,58.3,%,Reduction in carbon emissions
+Trees Equivalent,4.7,trees,Environmental impact equivalent
+Distance Savings,255.14,km,Distance saved vs worst route
+Emission Factor Electric,0.05,kg CO2/km,Electric vehicle emission factor
+Emission Factor Hybrid,0.08,kg CO2/km,Hybrid vehicle emission factor
+Emission Factor Gasoline,0.12,kg CO2/km,Gasoline vehicle emission factor
+Annual CO2 Savings,37715,kg CO2,Potential annual savings with daily routes
+Annual Trees Equivalent,1714,trees,Annual environmental impact
+Home Power Days,9429,days,Energy savings equivalent
+Optimal Route,San Francisco → Los Angeles → San Diego → San Francisco,route,Best route found by algorithm
+Algorithm,QAOA (Quantum Approximate Optimization Algorithm),type,Quantum algorithm used
+Problem Complexity,6,permutations,Total possible routes for 3 cities
+Solution Time,<1,seconds,Time to find optimal solution
